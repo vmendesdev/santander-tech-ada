@@ -10,7 +10,7 @@ Eemplos: o table apresenta em formado de coluna e linhas, o time apresenta o tem
 Env: npm i dote nv | npm docs dotenv 
 
 # Módulo de Rede
-dns
+dns:
 http
 https
 querystring
